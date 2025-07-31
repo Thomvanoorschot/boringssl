@@ -7,5 +7,17 @@
     .paths = .{
         "build.zig",
         "build.zig.zon",
+        "src",
+        "crypto",
+        "include",
+        "third_party",
+        "ssl",
+        "tool",
+        "util",
+        "rust",
+        "pki",
+        "infra",
+        "decrepit",
+        "gen",
     },
 }
